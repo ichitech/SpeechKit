@@ -6,7 +6,7 @@
 [![Cocoapod Latest Version](http://img.shields.io/cocoapods/v/SpeechKit.svg?style=flat)](https://cocoapods.org/?q=SpeechKit)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-<p align="left" >
+<p align="center" >
   <img src="https://github.com/ngocbinh02/SpeechKit/blob/master/siri.png?raw=true" alt="SpeechKit" title="SpeechKit">
 </p>
 
