@@ -10,6 +10,9 @@
   <img src="https://github.com/ngocbinh02/SpeechKit/blob/master/siri.png?raw=true" alt="SpeechKit" title="SpeechKit">
 </p>
 
+###POWER BY 
+http://nuance.com
+
 ###RELEASE
 
 # Release 1.4.19 (06/24/2015)
