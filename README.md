@@ -1,4 +1,16 @@
 # SpeechKit iOS SDK
+============
+
+![License](https://cocoapod-badges.herokuapp.com/l/SpeechKit/badge.(png|svg))
+![Platforms](https://cocoapod-badges.herokuapp.com/p/SpeechKit/badge.png)
+[![Cocoapod Latest Version](http://img.shields.io/cocoapods/v/SpeechKit.svg?style=flat)](https://cocoapods.org/?q=SpeechKit)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+<p align="left" >
+  <img src="https://github.com/ngocbinh02/SpeechKit/blob/master/siri.png?raw=true" alt="SpeechKit" title="SpeechKit">
+</p>
+
+###RELEASE
 
 # Release 1.4.19 (06/24/2015)
 Improved documentation for SSL hostname and keychain verification
