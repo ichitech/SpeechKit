@@ -23,7 +23,7 @@ Fixed bug on iOS 8 where speech recognition would prevent another audio channel 
 Added support for SSL hostname and keychain verification
 
 # Release 1.4.12 (09/11/2014)
-Update to fix an issue compiling for ARM64 and XCode 6
+Update to fix an issue compiling for ARM64 and Xcode 6
 Update to fix an issue related to arm64 compatibility for simulators and a bug where TTS audio would not play when the ringer was muted
 
 # Release 1.4.10 (04/29/2014)
