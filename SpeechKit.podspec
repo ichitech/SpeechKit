@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SpeechKit"
-  s.version      = "1.0.1"
+  s.version      = "2.1.3"
   s.summary      = "UIKit & UIFoundation"
   s.description  = "UIKit & UIFoundation Category"
   s.homepage     = "https://github.com/ngocbinh02/SpeechKit"
